@@ -3,5 +3,6 @@
  */
 
 Router.configure({
-    layoutTemplate: 'appLayout'
+    layoutTemplate: 'appLayout',
+    fastRender: true
 });

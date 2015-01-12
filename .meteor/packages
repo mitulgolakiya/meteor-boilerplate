@@ -14,3 +14,5 @@ accounts-facebook
 accounts-twitter
 bootstrap
 fezvrasta:bootstrap-material-design
+meteorhacks:subs-manager
+meteorhacks:fast-render

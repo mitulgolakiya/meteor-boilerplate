@@ -12,6 +12,8 @@ Meteor Boilerplate
 * [accounts-twitter](https://atmospherejs.com/meteor/accounts-twitter)
 * [bootstrap](https://atmospherejs.com/meteor/bootstrap)
 * [fezvrasta:bootstrap-material-design](https://atmospherejs.com/fezvrasta/bootstrap-material-design)
+* [meteorhacks:subs-manager](https://github.com/meteorhacks/subs-manager)
+* [meteorhacks:fast-render](https://github.com/meteorhacks/fast-render)
 
 ## Directory Structure
 
